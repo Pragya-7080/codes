@@ -1,0 +1,51 @@
+h1{
+    text-align:center ;
+color: red;
+height: auto;
+width: auto;
+text-decoration: underline;
+}
+p {
+    color:aqua ;
+    background-color: black; 
+  
+}
+button{
+    color: blue;
+    background-color: black;
+
+}
+#navbar{
+    height: 60px;
+    background-color:#0f1111 ;
+    color: aliceblue;
+}
+button{
+    background-color: #f08804;
+}
+#logo{
+    color:#f08804;
+font-size:25px ;
+}
+a{
+    margin-right: 200px;
+    color: white
+
+}
+.contentbox{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display:inline-block ;
+}
+#content{
+    height: 7000px;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+
+

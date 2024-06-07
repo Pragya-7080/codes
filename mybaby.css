@@ -1,0 +1,19 @@
+h1
+{
+      color:black;
+   font-style: italic;
+   font: bold;    
+   } 
+
+p{
+   color: brown;
+} 
+a:hover {
+background-color :black;
+color:red;
+}
+
+h1:hover {
+   color:green;
+}
+

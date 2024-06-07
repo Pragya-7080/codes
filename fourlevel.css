@@ -1,0 +1,16 @@
+.loader{
+    width: 200px;5
+    height: 200px;
+    border-radius: 50%;
+     border: 20px solid #fee66d;
+     border-top: 20px solid #4ecdc4;
+     animation: spinAnimation 3s ease-in 0s infinite normal;
+}
+@keyframes spainAnimate{
+    from{
+        transform:rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg);
+    }
+}
